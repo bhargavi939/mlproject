@@ -5,6 +5,10 @@ matplotlib
 seaborn
 scikit-learn
 flask  
-streamlit    
+streamlit
+catboost
+xgboost   
 dill
 -e .
+
+#pip install -r requirements.txt(run)
