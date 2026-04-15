@@ -11,7 +11,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 from src.exception import CustomException
 from src.logger import logging
-from src.util import save_object   #  make sure file name is utils.py
+from src.util import save_object   #  make sure file name is util.py
 
 
 @dataclass
